@@ -1,0 +1,6 @@
+﻿  Life.cpp
+F:\Data\Projects\C++\C++Testing\Life\Life.cpp(26,11): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+F:\Data\Projects\C++\C++Testing\Life\Life.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+F:\Data\Projects\C++\C++Testing\Life\Life.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+F:\Data\Projects\C++\C++Testing\Life\Life.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+  Life.vcxproj -> F:\Data\Projects\C++\C++Testing\x64\Debug\Life.exe
