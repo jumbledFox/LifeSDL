@@ -13,7 +13,7 @@ SDL_Surface* surface = NULL;
 unsigned int cellSize = 5;
 
 unsigned int cellMapWidth = 170;
-unsigned int cellMapHeight = 120;
+unsigned int cellMapHeight = 170;
 
 unsigned int screenWidth = cellMapWidth * cellSize;
 unsigned int screenHeight = cellMapHeight * cellSize;
